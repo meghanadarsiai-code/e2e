@@ -1,0 +1,14 @@
+{
+  "name": "cipherschools-study-management",
+  "version": "1.0.0",
+  "description": "Root script to run both backend and frontend",
+  "scripts": {
+    "start": "concurrently \"npm run dev --prefix cipherschool_backend-main\" \"npm start --prefix cipherschool_frontend-main\"",
+    "start:frontend": "npm start --prefix cipherschool_frontend-main",
+    "start:backend": "npm run dev --prefix cipherschool_backend-main",
+    "install-frontend": "npm install --prefix cipherschool_frontend-main"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

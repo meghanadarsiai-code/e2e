@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1681284891000,
+    "name": "Full Stack Web Development",
+    "description": "Learn MERN stack",
+    "material": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "id": 1681284923000,
+    "name": "Data Structures & Algorithms",
+    "description": "Master DSA in C++",
+    "material": "https://www.geeksforgeeks.org/data-structures/"
+  },
+  {
+    "id": 1681284955000,
+    "name": "Machine Learning Basics",
+    "description": "Intro to ML with Python",
+    "material": "https://scikit-learn.org/stable/tutorial/index.html"
+  },
+  {
+    "id": 1765214491126,
+    "name": "Python",
+    "description": "New Course",
+    "material": "#"
+  }
+]

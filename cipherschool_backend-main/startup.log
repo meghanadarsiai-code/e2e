@@ -1,0 +1,2321 @@
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+Failed to connect to MongoDB: 
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+Failed to connect to MongoDB: querySrv EREFUSED _mongodb._tcp.cluster0.fdwa7yd.mongodb.net
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+Failed to connect to MongoDB: querySrv EREFUSED _mongodb._tcp.cluster0.fdwa7yd.mongodb.net
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+Failed to connect to MongoDB: querySrv EREFUSED _mongodb._tcp.cluster0.fdwa7yd.mongodb.net
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+Failed to connect to MongoDB: Server selection timed out after 5000 ms
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing features_route
+Imported features_route
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module 'axios'
+Require stack:
+- C:\Users\acer\Desktop\certifications\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\chat_route.js
+- C:\Users\acer\Desktop\certifications\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/test_attempt_model'
+Require stack:
+- C:\Users\rohit\Documents\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\tests_route.js
+- C:\Users\rohit\Documents\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Imported granular feature routes
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Starting imports...
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Starting imports...
+Starting imports...
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Imported mongoose
+Imported fileUpload
+Imported express
+Imported express
+Imported cors
+Imported cors
+Imported dotenv
+Imported config
+Imported dotenv
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Imported config
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Imported mongoose
+Importing file_route
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server running on port 4000
+MongoDB connected
+Starting imports...
+Imported express
+Imported cors
+Imported dotenv
+Imported config
+Imported mongoose
+Imported fileUpload
+Imported path
+Configured dotenv
+Importing granular feature routes
+Error importing feature routes: Cannot find module '../models/Enrollment'
+Require stack:
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\routes\courses_route.js
+- C:\Users\DELL\Downloads\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\studey-mangment--cipherschool-main\cipherschool_backend-main\server.js
+Attempting to connect to DB...
+Importing file_route
+Imported file_route
+Importing user_route
+Imported user_route
+Importing admin_route
+Imported admin_route
+Starting server on port 4000
+Server runtime error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+Process exiting with code: 1

@@ -1,0 +1,216 @@
+[
+  {
+    "id": 101,
+    "title": "React JS Basics",
+    "questions": [
+      {
+        "question": "What is the hook used to manage state in functional components?",
+        "options": [
+          "useEffect",
+          "useState",
+          "useContext",
+          "useReducer"
+        ],
+        "correct": "useState"
+      },
+      {
+        "question": "What is the hook used for side effects?",
+        "options": [
+          "useState",
+          "useEffect",
+          "useMemo",
+          "useRef"
+        ],
+        "correct": "useEffect"
+      },
+      {
+        "question": "What syntax is used to write HTML inside JavaScript in React?",
+        "options": [
+          "HTML",
+          "XML",
+          "JSX",
+          "JSHTML"
+        ],
+        "correct": "JSX"
+      },
+      {
+        "question": "Which method is used to create a context?",
+        "options": [
+          "createContext",
+          "useContext",
+          "makeContext",
+          "initContext"
+        ],
+        "correct": "createContext"
+      },
+      {
+        "question": "React runs on a Virtual DOM.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": "True"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "JavaScript Fundamentals",
+    "questions": [
+      {
+        "question": "Which keyword is used to declare a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "correct": "const"
+      },
+      {
+        "question": "What is the output of typeof null?",
+        "options": [
+          "null",
+          "undefined",
+          "object",
+          "number"
+        ],
+        "correct": "object"
+      },
+      {
+        "question": "Which array method creates a new array with the results of calling a provided function on every element?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "correct": "map"
+      },
+      {
+        "question": "What stands for DOM?",
+        "options": [
+          "Data Object Model",
+          "Document Object Model",
+          "Document Oriented Model",
+          "Data Oriented Model"
+        ],
+        "correct": "Document Object Model"
+      },
+      {
+        "question": "Is JavaScript single-threaded?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correct": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "title": "Full Stack Certification Final Exam",
+    "questions": [
+      {
+        "question": "What does MERN stand for?",
+        "options": [
+          "MongoDB Express React Node",
+          "MySQL Express React Node",
+          "MongoDB Electron React Node",
+          "MongoDB Express Redux Node"
+        ],
+        "correct": "MongoDB Express React Node"
+      },
+      {
+        "question": "Which HTTP method is used to update a resource?",
+        "options": [
+          "GET",
+          "POST",
+          "PUT",
+          "DELETE"
+        ],
+        "correct": "PUT"
+      },
+      {
+        "question": "In React, data flows in which direction?",
+        "options": [
+          "Bidirectional",
+          "Unidirectional",
+          "Multidirectional",
+          "None"
+        ],
+        "correct": "Unidirectional"
+      },
+      {
+        "question": "What is the command to initialize a Node.js project?",
+        "options": [
+          "npm start",
+          "node init",
+          "npm init",
+          "npm install"
+        ],
+        "correct": "npm init"
+      },
+      {
+        "question": "Which SQL command is used to retrieve data?",
+        "options": [
+          "INSERT",
+          "UPDATE",
+          "DELETE",
+          "SELECT"
+        ],
+        "correct": "SELECT"
+      },
+      {
+        "question": "What is the default port for React dev server?",
+        "options": [
+          "8080",
+          "5000",
+          "3000",
+          "4200"
+        ],
+        "correct": "3000"
+      },
+      {
+        "question": "What is middleware in Express?",
+        "options": [
+          "Database",
+          "Function that has access to request and response",
+          "Frontend Component",
+          "Testing Tool"
+        ],
+        "correct": "Function that has access to request and response"
+      },
+      {
+        "question": "CSS stands for?",
+        "options": [
+          "Creative Style Sheets",
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets"
+        ],
+        "correct": "Cascading Style Sheets"
+      },
+      {
+        "question": "HTML tag for largest heading?",
+        "options": [
+          "<h6>",
+          "<head>",
+          "<h1>",
+          "<heading>"
+        ],
+        "correct": "<h1>"
+      },
+      {
+        "question": "Symbol for ID selector in CSS?",
+        "options": [
+          ".",
+          "#",
+          "*",
+          "&"
+        ],
+        "correct": "#"
+      }
+    ]
+  }
+]
