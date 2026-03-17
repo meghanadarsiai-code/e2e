@@ -1,0 +1,23 @@
+.ide-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.ide-header {
+    background: var(--ciph-card-bg);
+    padding: 1.5rem;
+    border-radius: 16px;
+    border: 1px solid var(--ciph-border);
+    box-shadow: var(--ciph-shadow-sm);
+}
+
+.ide-container .gfg-card {
+    box-shadow: var(--ciph-shadow);
+}
+
+/* Make sure Monaco wrapper fills out cleanly */
+.ide-container .monaco-editor,
+.ide-container .monaco-editor-background {
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}

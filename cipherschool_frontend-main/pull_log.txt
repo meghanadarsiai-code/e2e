@@ -1,0 +1,14 @@
+﻿git : error: Pulling is not possible because you have 
+unmerged files.
+At line:1 char:1
++ git pull origin main --allow-unrelated-histories 2>&1 | 
+Out-File pull ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (error: Pulli 
+   ng ...unmerged files.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+hint: Fix them up in the work tree, and then use 'git 
+add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.

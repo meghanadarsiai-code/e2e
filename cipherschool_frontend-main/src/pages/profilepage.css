@@ -1,0 +1,179 @@
+#sidenavbar {
+  width: 150%;
+}
+
+#sidenavbar :active {
+  background-color: #f3912e;
+  color: white;
+}
+
+#sidenavbar :visited {
+  background-color: #f3912e;
+  color: white;
+}
+
+#profileimg {
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  border-radius: 100px;
+  margin-left: 100px;
+  margin-top: -17px;
+  float: left;
+}
+
+#email {
+  float: left;
+  margin-left: -101px;
+}
+
+#greeting {
+  float: left;
+  margin-left: 20px;
+}
+
+#aboutme {
+  margin-top: 200px;
+  width: 100%;
+}
+
+#ciphermap {
+  margin-top: 10px;
+  width: 100%;
+}
+
+#theweb {
+  margin-top: 10px;
+  width: 100%;
+  border: none;
+}
+
+#leftnavbar {
+  border: none;
+
+  margin-top: 200px;
+  display: flex;
+}
+
+/* #leftnavbar :active {
+  background-color: #f3912e;
+  color: black;
+} */
+#leftnavbar :visited {
+  background-color: #f3912e;
+  color: black;
+}
+
+@media only screen and (max-width: 1000px) {
+  #profileimg {
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 100px;
+    margin-left: 70px;
+    margin-top: -17px;
+    float: left;
+  }
+
+  #email {
+    float: left;
+    margin-left: 0px;
+  }
+
+  #greeting {
+    float: left;
+    margin-left: 0px;
+  }
+
+  #aboutme {
+    margin-top: 250px;
+    width: 88%;
+    float: right;
+  }
+
+  #ciphermap {
+    margin-top: 10px;
+    width: 88%;
+    float: right;
+  }
+
+  #theweb {
+    margin-top: 10px;
+    width: 88%;
+    border: none;
+    float: right;
+  }
+
+  #leftnavbar {
+    border: none;
+    margin-top: 10px;
+  }
+
+  #following {
+    width: 88%;
+    float: right;
+  }
+}
+
+/* GitHub / LeetCode Heatmap Styling */
+.activity-heatmap-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+  padding-bottom: 10px;
+}
+
+.react-calendar-heatmap text {
+  font-size: 10px;
+  fill: #7a7a7a;
+}
+
+body.dark-mode .react-calendar-heatmap text {
+  fill: #a0a0a0;
+}
+
+.react-calendar-heatmap rect:hover {
+  stroke: #555;
+  stroke-width: 1px;
+}
+
+/* Light Theme Colors (GitHub style) */
+.react-calendar-heatmap .color-empty {
+  fill: #ebedf0;
+}
+
+.react-calendar-heatmap .color-github-1 {
+  fill: #9be9a8;
+}
+
+.react-calendar-heatmap .color-github-2 {
+  fill: #40c463;
+}
+
+.react-calendar-heatmap .color-github-3 {
+  fill: #30a14e;
+}
+
+.react-calendar-heatmap .color-github-4 {
+  fill: #216e39;
+}
+
+/* Dark Theme Colors (LeetCode style dark mode / GitHub dark) */
+body.dark-mode .react-calendar-heatmap .color-empty {
+  fill: #161b22;
+}
+
+body.dark-mode .react-calendar-heatmap .color-github-1 {
+  fill: #0e4429;
+}
+
+body.dark-mode .react-calendar-heatmap .color-github-2 {
+  fill: #006d32;
+}
+
+body.dark-mode .react-calendar-heatmap .color-github-3 {
+  fill: #26a641;
+}
+
+body.dark-mode .react-calendar-heatmap .color-github-4 {
+  fill: #39d353;
+}

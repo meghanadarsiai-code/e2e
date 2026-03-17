@@ -1,0 +1,66 @@
+﻿On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../cipherschool_backend-main/.env.example
+	deleted:    ../cipherschool_backend-main/.gitignore
+	deleted:    ../cipherschool_backend-main/config.js
+	deleted:    ../cipherschool_backend-main/create_test_user.js
+	deleted:    ../cipherschool_backend-main/data/certificates.json
+	deleted:    ../cipherschool_backend-main/data/chats.json
+	deleted:    ../cipherschool_backend-main/data/courses.json
+	deleted:    ../cipherschool_backend-main/data/tests.json
+	deleted:    ../cipherschool_backend-main/debug_db.js
+	deleted:    ../cipherschool_backend-main/debug_db_connection.js
+	deleted:    ../cipherschool_backend-main/env_dump.txt
+	deleted:    ../cipherschool_backend-main/middleware/admin.js
+	deleted:    ../cipherschool_backend-main/middleware/protectedResource.js
+	deleted:    ../cipherschool_backend-main/models/admin_model.js
+	deleted:    ../cipherschool_backend-main/models/chat_model.js
+	deleted:    ../cipherschool_backend-main/models/course_model.js
+	deleted:    ../cipherschool_backend-main/models/user_model.js
+	deleted:    ../cipherschool_backend-main/node_version.txt
+	deleted:    ../cipherschool_backend-main/package-lock.json
+	deleted:    ../cipherschool_backend-main/package.json
+	deleted:    ../cipherschool_backend-main/read_env_debug.js
+	deleted:    ../cipherschool_backend-main/routes/admin_route.js
+	deleted:    ../cipherschool_backend-main/routes/chat_route.js
+	deleted:    ../cipherschool_backend-main/routes/courses_route.js
+	deleted:    ../cipherschool_backend-main/routes/features_route.js
+	deleted:    ../cipherschool_backend-main/routes/file_route.js
+	deleted:    ../cipherschool_backend-main/routes/user_route.js
+	deleted:    ../cipherschool_backend-main/seed_admins.js
+	deleted:    ../cipherschool_backend-main/seed_courses.js
+	deleted:    ../cipherschool_backend-main/server.js
+	deleted:    ../cipherschool_backend-main/uploads/Saibalaji_certificate.pdf
+	deleted:    ../cipherschool_backend-main/uploads/balaji_1767425032497_certificate.pdf
+	deleted:    ../cipherschool_backend-main/uploads/balaji_certificate.pdf
+	deleted:    ../cipherschool_backend-main/uploads/pexels-eberhard-grossgasteiger-691668.jpg
+	deleted:    ../cipherschool_backend-main/uploads/pexels-vlad-alexandru-popa-1402787.jpg
+	deleted:    ../cipherschool_backend-main/view_users.js
+	modified:   src/cards/Home_Introcard.js
+	modified:   src/components/navbar.js
+	modified:   src/index.css
+	modified:   src/pages/admin_dashboard.js
+	modified:   src/pages/assignments_page.css
+	modified:   src/pages/certificate_page.js
+	modified:   src/pages/changepasscode.js
+	modified:   src/pages/chat_page.js
+	modified:   src/pages/communitypage.js
+	modified:   src/pages/courses_page.js
+	modified:   src/pages/otheruserprofilepage.js
+	modified:   src/pages/profilepage.js
+	modified:   src/pages/searchuser.js
+	modified:   src/pages/tests_page.js
+	modified:   src/pages/updatepage.js
+	modified:   src/pages/updatepassword.js
+	modified:   ../package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	src/MOCK_DATA.js
+	status.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")

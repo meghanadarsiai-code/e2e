@@ -1,0 +1,145 @@
+.tests-hero {
+  border: 1px solid var(--ciph-border);
+  border-radius: 16px;
+  padding: 1rem;
+  background: linear-gradient(130deg, #eef5ff 0%, #fff 60%);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+}
+
+.tests-tag {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: var(--ciph-primary-dark);
+}
+
+.tests-hero-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem;
+}
+
+.tests-hero-stats article {
+  border: 1px solid var(--ciph-border);
+  border-radius: 10px;
+  background: var(--ciph-card-bg);
+  padding: 0.65rem;
+  min-width: 130px;
+}
+
+.tests-hero-stats h4,
+.tests-hero-stats p {
+  margin: 0;
+}
+
+.tests-hero-stats p {
+  color: var(--ciph-text-light);
+  font-size: 0.82rem;
+}
+
+.tests-strategy-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.tests-strategy-grid article {
+  border: 1px solid var(--ciph-border);
+  border-radius: 12px;
+  background: linear-gradient(150deg, var(--ciph-card-bg) 0%, var(--ciph-soft) 100%);
+  padding: 0.85rem;
+}
+
+.tests-strategy-grid h5 {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.tests-strategy-grid p {
+  margin: 0.45rem 0 0;
+  color: var(--ciph-text-light);
+  font-size: 0.88rem;
+}
+
+.tests-ai-section,
+.tests-faq {
+  border: 1px solid var(--ciph-border);
+  border-radius: 14px;
+  background: var(--ciph-card-bg);
+  padding: 1rem;
+}
+
+.tests-ai-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+.tests-ai-card {
+  border: 1px solid var(--ciph-border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.tests-ai-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.tests-ai-card div {
+  padding: 0.75rem;
+}
+
+.tests-ai-card h5 {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.tests-ai-card p {
+  margin: 0.45rem 0 0;
+  color: var(--ciph-text-light);
+  font-size: 0.84rem;
+}
+
+.tests-faq-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.tests-faq-grid details {
+  border: 1px solid var(--ciph-border);
+  border-radius: 10px;
+  padding: 0.7rem;
+}
+
+.tests-faq-grid summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tests-faq-grid p {
+  margin: 0.55rem 0 0;
+  color: var(--ciph-text-light);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+  .tests-hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .tests-strategy-grid,
+  .tests-ai-grid,
+  .tests-faq-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,2 @@
+﻿origin	https://github.com/saibalaji1214/sample_repo.git (fetch)
+origin	https://github.com/saibalaji1214/sample_repo.git (push)

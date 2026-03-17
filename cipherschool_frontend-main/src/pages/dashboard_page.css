@@ -1,0 +1,116 @@
+.dashboard-hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.25rem;
+  border: 1px solid var(--ciph-border);
+  border-radius: 14px;
+  background: linear-gradient(120deg, #fff7ef 0%, #ffffff 65%);
+}
+
+.dashboard-eyebrow {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--ciph-primary-dark);
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.dashboard-hero-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.dashboard-panel {
+  border: 1px solid var(--ciph-border);
+  border-radius: 14px;
+  background: var(--ciph-card-bg);
+  padding: 1rem;
+}
+
+.dashboard-panel-wide {
+  grid-column: span 2;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.stats-grid article {
+  border: 1px solid var(--ciph-border);
+  border-radius: 12px;
+  padding: 0.9rem;
+  background: var(--ciph-soft);
+}
+
+.stats-grid h3 {
+  margin: 0;
+  font-size: 1.6rem;
+  color: var(--ciph-secondary);
+}
+
+.stats-grid p {
+  margin: 0;
+  color: var(--ciph-text-light);
+  font-size: 0.9rem;
+}
+
+.course-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid var(--ciph-border);
+  border-radius: 12px;
+  padding: 0.7rem;
+}
+
+.result-card {
+  border: 1px solid var(--ciph-border);
+  border-radius: 12px;
+  padding: 0.8rem;
+  background: var(--ciph-soft);
+}
+
+.planner-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.planner-item {
+  border: 1px solid var(--ciph-border);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.55rem 0.65rem;
+}
+
+@media (max-width: 900px) {
+  .dashboard-hero {
+    flex-direction: column;
+  }
+
+  .dashboard-hero-actions {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-panel-wide {
+    grid-column: span 1;
+  }
+}

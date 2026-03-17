@@ -1,0 +1,14 @@
+.app-footer {
+  border-top: 1px solid var(--ciph-border);
+  background: var(--ciph-card-bg);
+  margin-top: 2rem;
+}
+
+.footer-grid {
+  min-height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}

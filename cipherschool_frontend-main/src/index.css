@@ -1,0 +1,229 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap");
+
+:root {
+  --ciph-primary: #6366f1;
+  --ciph-primary-dark: #4f46e5;
+  --ciph-primary-light: #818cf8;
+  --ciph-secondary: #0f172a;
+  --ciph-secondary-light: #334155;
+  --ciph-bg: #f8fafc;
+  --ciph-card-bg: #ffffff;
+  --ciph-text: #0f172a;
+  --ciph-text-light: #64748b;
+  --ciph-border: #e2e8f0;
+  --ciph-soft: #f1f5f9;
+  --ciph-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --ciph-shadow-sm: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+  --font-primary: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-heading: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-primary);
+  background: radial-gradient(circle at top center, #e0e7ff 0%, #f8fafc 40%, #f1f5f9 100%);
+  color: var(--ciph-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.5s ease, color 0.5s ease;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.gfg-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.gfg-card,
+.card {
+  background: var(--ciph-card-bg);
+  border: 1px solid var(--ciph-border) !important;
+  border-radius: 16px !important;
+  padding: 1.5rem;
+  transition: box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: var(--ciph-shadow-sm);
+}
+
+.gfg-card:hover,
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--ciph-shadow);
+}
+
+.gfg-btn-primary,
+.btn-primary {
+  background: linear-gradient(135deg, var(--ciph-primary), var(--ciph-primary-dark)) !important;
+  border: none !important;
+  color: #fff !important;
+  border-radius: 12px;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-primary);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+  box-shadow: 0 4px 6px -1px rgba(79, 70, 229, 0.4);
+}
+
+.gfg-btn-primary:hover,
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(79, 70, 229, 0.5);
+  opacity: 0.95;
+}
+
+.btn-outline-dark {
+  border-radius: 12px;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border: 2px solid var(--ciph-secondary);
+  color: var(--ciph-secondary);
+  transition: all 0.2s ease;
+}
+
+.btn-outline-dark:hover {
+  background-color: var(--ciph-secondary);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: var(--ciph-shadow-sm);
+}
+
+.btn,
+.form-control,
+.form-select,
+.table tbody tr,
+details {
+  transition: all 0.2s ease;
+}
+
+.form-control,
+.form-select {
+  border-radius: 10px;
+  border: 1px solid var(--ciph-border);
+  padding: 0.75rem 1rem;
+  background-color: var(--ciph-soft);
+}
+
+.form-control:focus,
+.form-select:focus {
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+  border-color: var(--ciph-primary-light);
+  background-color: var(--ciph-card-bg);
+}
+
+img {
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+img:hover {
+  filter: saturate(1.1);
+}
+
+.gfg-header {
+  font-weight: 800;
+  color: var(--ciph-secondary);
+  display: inline-block;
+  background: linear-gradient(to right, var(--ciph-secondary), var(--ciph-primary));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glass-effect,
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+body.dark-mode {
+  --ciph-primary: #818cf8;
+  --ciph-primary-dark: #6366f1;
+  --ciph-primary-light: #a5b4fc;
+  --ciph-bg: #09090b;
+  --ciph-card-bg: #18181b;
+  --ciph-text: #f8fafc;
+  --ciph-text-light: #94a3b8;
+  --ciph-border: #27272a;
+  --ciph-secondary: #ffffff;
+  --ciph-soft: #27272a;
+  --ciph-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.5), 0 8px 10px -6px rgb(0 0 0 / 0.5);
+  background: radial-gradient(circle at top center, #1e1b4b 0%, #09090b 40%, #0f172a 100%);
+}
+
+body.dark-mode .glass-effect,
+body.dark-mode .glass-panel {
+  background: rgba(24, 24, 27, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+body.dark-mode .bg-light {
+  background-color: var(--ciph-card-bg) !important;
+}
+
+body.dark-mode .table {
+  color: var(--ciph-text);
+  border-color: var(--ciph-border);
+}
+
+body.dark-mode .text-muted {
+  color: var(--ciph-text-light) !important;
+}
+
+/* Bootstrap Overrides for Dark Mode */
+
+body.dark-mode .modal-content,
+body.dark-mode .offcanvas {
+  background-color: var(--ciph-card-bg);
+  color: var(--ciph-text);
+  border: 1px solid var(--ciph-border);
+}
+
+body.dark-mode .modal-header,
+body.dark-mode .offcanvas-header {
+  border-bottom: 1px solid var(--ciph-border);
+}
+
+body.dark-mode .text-dark {
+  color: var(--ciph-text) !important;
+}
+
+body.dark-mode .form-control,
+body.dark-mode .form-select {
+  color: var(--ciph-text);
+  background-color: var(--ciph-soft);
+  border: 1px solid var(--ciph-border);
+}
+
+body.dark-mode .form-control::placeholder {
+  color: var(--ciph-text-light);
+}
+
+/* Make sure the form check labels (switches/checkboxes) are visible */
+body.dark-mode .form-check-label {
+  color: var(--ciph-text);
+}
+
+/* Close buttons (X) on modals */
+body.dark-mode .btn-close {
+  filter: invert(1) grayscale(100%) brightness(200%);
+}
